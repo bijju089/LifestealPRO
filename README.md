@@ -24,3 +24,7 @@ Powerful lifesteal plugin! <br>
 - %lifesteal_revived% - The amount of times a player has been revived
 - %lifesteal_craftedhearts% - The amount of times a player has crafted a heart
 - %lifesteal_craftedrevives% - The amount of times a player has crafted a revive crystal
+
+## API
+endpoint used to get last release,
+```https://api.cxstudios.org/v1/lifestealpro/get-version```
