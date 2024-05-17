@@ -1,5 +1,6 @@
 # LifestealPRO
 Powerful lifesteal plugin! <br>
+** AVAILABLE FOR BETA TESTING - LAUNCH SOON **
 ## Features
 - MiniMessage Support [ Use HEX and Gradients with Ease ]
 - Anti Alt System
