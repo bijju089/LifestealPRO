@@ -39,7 +39,8 @@ Powerful lifesteal plugin! <br>
 
 ## Recipe (Customizable)
 ![image](https://github.com/bijju089/LifestealPRO/assets/103484184/ed110369-3488-41c6-9e43-279cd98fbae1)
-![image](https://github.com/bijju089/LifestealPRO/assets/103484184/68d3b409-93c0-4a51-9548-455ef0b49b85)
+![image](https://github.com/bijju089/LifestealPRO/assets/103484184/58e95055-1d5d-4530-8fdb-8c26b7fd792c)
+
 
 ## API
 endpoint used to get last release,
