@@ -20,6 +20,8 @@ Powerful lifesteal plugin! <br>
 - Execute Commands on events
 - All Essential Lifesteal commands
 
+## Commands
+- Use `/lifestealpro help` to get all usable commands!
 ## Permissions 
 - Admin Permission
   - lifesteal.admin.* - All Permissions
