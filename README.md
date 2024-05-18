@@ -24,6 +24,7 @@ Powerful lifesteal plugin! <br>
 - %lifesteal_revived% - The amount of times a player has been revived
 - %lifesteal_craftedhearts% - The amount of times a player has crafted a heart
 - %lifesteal_craftedrevives% - The amount of times a player has crafted a revive crystal
+- %lifesteal_health% - This is used to get the health in integer of a player
 
 ## API
 endpoint used to get last release,
