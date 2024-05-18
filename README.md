@@ -11,7 +11,7 @@ Powerful lifesteal plugin! <br>
 - PlaceholderAPI Hook
 - MySQL / SQlite Storage Methods
 - Play Totem effect when using Heart item
-- Custom Recipe for Heart and Revive Item
+- [Custom Recipe](https://github.com/bijju089/LifestealPRO/edit/main/README.md#recipe-customizable)
 - Add Custom Items
 - Custom Languages
 - Heart Claim Cooldown
@@ -21,7 +21,7 @@ Powerful lifesteal plugin! <br>
 - All Essential Lifesteal commands
 
 ## Commands
-- Use `/lifestealpro help` to get all usable commands!
+- Use `/lifestealpro help` to get all [usable](https://github.com/bijju089/LifestealPRO/blob/main/README.md#permissions) commands!
 ## Permissions 
 - Admin Permission
   - lifesteal.admin.* - All Permissions
