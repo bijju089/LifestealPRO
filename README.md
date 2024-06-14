@@ -1,6 +1,7 @@
 # LifestealPRO
 Powerful lifesteal plugin! <br>
-** AVAILABLE FOR BETA TESTING - LAUNCH SOON **
+[<img src="https://images.polymart.org/resource/5944/default.jpg" width="480" alt="Download LifestealPro on Polymart.org" title="Download LifestealPro on Polymart.org">](https://polymart.org/resource/lifestealpro.5944?utm_source=product-materials-image&utm_medium=referral&utm_campaign=product-5944-materials-image-default&utm_content=product-5944-user-25116-markdown)
+
 ## Features
 - MiniMessage Support [ Use HEX and Gradients with Ease ]
 - Anti Alt System
