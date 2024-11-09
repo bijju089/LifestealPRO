@@ -45,4 +45,4 @@ Powerful lifesteal plugin! <br>
 
 ## API
 endpoint used to get last release,
-```https://api.cxstudios.org/v1/lifestealpro/get-version```
+```https://api.cxstudios.in/v1/lifestealpro/get-version```
